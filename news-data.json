@@ -1,0 +1,31 @@
+{
+  "articles": [
+    {
+      "id": "article-001",
+      "title": "Welcome to NewsFeed - Your Source for Latest News",
+      "snippet": "We're excited to launch NewsFeed, a simple and elegant platform for sharing the latest news and updates. This platform is designed to be easily automated with GitHub Copilot Agent.",
+      "content": "<p>We're thrilled to announce the launch of NewsFeed, your new destination for staying updated with the latest news and information.</p><h2>What is NewsFeed?</h2><p>NewsFeed is a simple, clean, and modern news platform built with GitHub Pages. Our goal is to provide a streamlined reading experience while making it easy to publish and manage news articles.</p><h2>Key Features</h2><p>Our platform offers several key features:</p><ul><li>Clean, responsive design that works on all devices</li><li>Easy-to-read article snippets on the home page</li><li>Full article view with optimized reading experience</li><li>Automated news publishing capability</li></ul><h2>Designed for Automation</h2><p>NewsFeed is specifically designed to work seamlessly with GitHub Copilot Agent for automated news publishing. The simple JSON-based data structure makes it easy to add new articles programmatically on a scheduled basis.</p><p>Stay tuned for more updates and news articles!</p>",
+      "date": "2025-11-19",
+      "author": "NewsFeed Team",
+      "image": ""
+    },
+    {
+      "id": "article-002",
+      "title": "How to Use NewsFeed Platform",
+      "snippet": "Learn how to navigate and use the NewsFeed platform effectively. This guide will help you get the most out of your reading experience.",
+      "content": "<p>NewsFeed is designed to be intuitive and easy to use. Here's everything you need to know to get started.</p><h2>Browsing Articles</h2><p>The home page displays all available news articles in a card-based layout. Each card shows:</p><ul><li>Publication date</li><li>Article title</li><li>A brief snippet or summary</li><li>A 'Read More' link to view the full article</li></ul><h2>Reading Full Articles</h2><p>Click on any article card to view the complete article. The article page includes the full title, publication date, author information, and the complete article content.</p><h2>Navigation</h2><p>Use the 'Back to Home' link on any article page to return to the main news feed. The platform is designed for seamless navigation and quick access to content.</p><h2>Mobile Experience</h2><p>NewsFeed is fully responsive and optimized for mobile devices. Whether you're on a desktop, tablet, or smartphone, you'll enjoy the same great reading experience.</p>",
+      "date": "2025-11-18",
+      "author": "NewsFeed Team",
+      "image": ""
+    },
+    {
+      "id": "article-003",
+      "title": "Automated News Publishing with GitHub Copilot Agent",
+      "snippet": "Discover how NewsFeed integrates with GitHub Copilot Agent to enable automated news publishing on a scheduled basis.",
+      "content": "<p>One of the most powerful features of NewsFeed is its ability to work seamlessly with automated publishing systems.</p><h2>The Power of Automation</h2><p>NewsFeed uses a simple JSON-based data structure stored in the <code>news-data.json</code> file. This makes it incredibly easy to add new articles programmatically without manual intervention.</p><h2>How It Works</h2><p>GitHub Copilot Agent can be configured to fetch news from various sources and automatically update the news-data.json file. The process is straightforward:</p><ol><li>Agent fetches news from configured sources</li><li>Formats the news into the required JSON structure</li><li>Updates the news-data.json file</li><li>Commits and pushes changes to the repository</li><li>GitHub Pages automatically updates the website</li></ol><h2>Data Structure</h2><p>Each article in the JSON file contains the following fields:</p><ul><li><strong>id:</strong> Unique identifier for the article</li><li><strong>title:</strong> Article headline</li><li><strong>snippet:</strong> Brief summary for the home page</li><li><strong>content:</strong> Full article content (supports HTML)</li><li><strong>date:</strong> Publication date (YYYY-MM-DD format)</li><li><strong>author:</strong> Article author (optional)</li><li><strong>image:</strong> Article image URL (optional)</li></ul><h2>Benefits</h2><p>This automated approach offers several advantages:</p><ul><li>Consistent publishing schedule</li><li>No manual intervention required</li><li>Scalable to handle multiple news sources</li><li>Version-controlled content history</li><li>Easy to maintain and update</li></ul>",
+      "date": "2025-11-17",
+      "author": "NewsFeed Team",
+      "image": ""
+    }
+  ]
+}
