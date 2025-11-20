@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Cloudflare Outage Temporarily Disrupts Services Like X and ChatGPT",
+    "date": "2025-11-18",
+    "article": "A major outage hit Cloudflare, a core internet infrastructure provider, causing disruption for web services including X and ChatGPT. Technical teams spent hours investigating and patching the problem."
+  },
+  {
+    "title": "Massive 15.7 Tbps DDoS Attack Hits Microsoft Azure, Traced to Aisuru Botnet",
+    "date": "2025-11-18",
+    "article": "Microsoft Azure faced an unprecedented distributed denial-of-service (DDoS) attack peaking at 15.7 terabits per second. Security researchers traced the massive assault to the Aisuru botnet, marking one of the largest DDoS attacks recorded to date."
+  },
+  {
+    "title": "Roblox Steps Up Age Verification and Messaging Safeguards",
+    "date": "2025-11-18",
+    "article": "In response to growing concerns about child safety, Roblox has announced enhanced age verification measures and stricter messaging controls. The platform will implement more robust identity verification and restrict direct messaging capabilities for younger users."
+  },
+  {
+    "title": "AI App Promises to Let You Talk With the Dead",
+    "date": "2025-11-17",
+    "article": "A controversial new AI application claims to enable users to have conversations with deceased loved ones by analyzing their digital footprints and communication patterns. The technology has sparked ethical debates about grief, privacy, and the boundaries of artificial intelligence."
+  },
+  {
+    "title": "Anthropic Warns of AI-Driven Hacking Campaign Linked to China",
+    "date": "2025-11-14",
+    "article": "AI safety company Anthropic has issued a warning about sophisticated hacking campaigns utilizing artificial intelligence tools. The company's security team has identified attack patterns suggesting state-sponsored actors from China are leveraging AI to enhance their cyber operations."
+  }
+]
